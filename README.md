@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
