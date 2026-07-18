@@ -77,4 +77,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
