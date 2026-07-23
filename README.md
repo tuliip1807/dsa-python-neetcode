@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -104,5 +105,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
