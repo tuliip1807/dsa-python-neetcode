@@ -106,9 +106,22 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
