@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
