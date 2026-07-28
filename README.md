@@ -110,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
