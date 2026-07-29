@@ -116,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0033-search-in-rotated-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0704-binary-search) |
