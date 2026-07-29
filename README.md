@@ -119,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -132,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0035-search-insert-position](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
