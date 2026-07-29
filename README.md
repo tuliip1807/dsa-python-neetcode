@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -91,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
