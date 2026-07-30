@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -91,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -162,6 +164,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0242-valid-anagram) |
