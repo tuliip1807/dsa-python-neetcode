@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0205-isomorphic-strings](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0242-valid-anagram](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -186,4 +189,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
