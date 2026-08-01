@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0125-valid-palindrome](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -204,4 +205,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
