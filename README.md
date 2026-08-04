@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -133,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -220,4 +223,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
