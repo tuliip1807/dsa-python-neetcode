@@ -137,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/tuliip1807/dsa-python-neetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
